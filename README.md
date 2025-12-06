@@ -7,7 +7,7 @@
 
 I entered the tech world in a slightly unusual way.
 
-In **2022**, I started my journey working with **Java & React JS** — building small applications, learning how the web works, and trying to understand why everything breaks when I forget a semicolon.
+In **2022**, I started my journey working with **Java & React JS** building small applications, learning how the web works, and trying to understand why everything breaks when I forget a semicolon.
 
 Then in **2023**, I discovered something that completely changed my path:
 
@@ -15,7 +15,7 @@ Then in **2023**, I discovered something that completely changed my path:
 
 I instantly got hooked.  
 APIs, AL, integrations, automations, IoT + BC…  
-Everything felt powerful, structured, meaningful — and surprisingly fun.
+Everything felt powerful, structured, meaningful and surprisingly fun.
 
 Since then, I’ve spent **2.5 years** growing as a Business Central developer:
 

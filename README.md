@@ -17,11 +17,12 @@ I instantly got hooked.
 APIs, AL, integrations, automations, IoT + BC…  
 Everything felt powerful, structured, meaningful and surprisingly fun.
 
-Since then, I’ve spent **2.5 years** growing as a Business Central developer:
+Since then, I’ve spent **2.5 years (and still going strong)** growing as a Business Central developer:
 
 - Writing AL code with purpose  
 - Designing flexible extensions  
 - Building integrations  
+- Exploring how to combine **AI + Business Central**  
 - Sharing knowledge with the community  
 
 I am **self-taught**, curious, and passionate about helping others start their BC journey.

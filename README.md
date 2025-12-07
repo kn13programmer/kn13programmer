@@ -22,7 +22,6 @@ Since then, I’ve spent **2.5 years** growing as a Business Central developer:
 - Writing AL code with purpose  
 - Designing flexible extensions  
 - Building integrations  
-- Playing with Azure + BC + IoT  
 - Sharing knowledge with the community  
 
 I am **self-taught**, curious, and passionate about helping others start their BC journey.

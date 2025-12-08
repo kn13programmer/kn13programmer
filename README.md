@@ -112,8 +112,8 @@ Sometimes I fix a bug…
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasimnaqvi13&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kasimnaqvi13&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kn13programmer&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kn13programmer&layout=compact&theme=github_dark" />
 </p>
 
 

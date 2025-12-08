@@ -39,8 +39,8 @@ I am **self-taught**, curious, and passionate about helping others start their B
 ---
 
 ## 😂 Fun BC Developer Fact
-Sometimes I fix a bug…  
-…and then I open **Event Viewer** just to feel something.  
+I start a debugging session…  
+…and the bug disappears instantly—like it’s scared of me.  
 
 ---
 

@@ -66,9 +66,9 @@ I start a debugging session…
 
 ## 📘 Currently Learning
 ![Power BI](https://img.shields.io/badge/Power_BI-Beginner-f2c811?style=for-the-badge&logo=powerbi)
-![Power Apps](https://img.shields.io/badge/Power_Apps-Beginner-742774?style=for-the-badge&logo=powerapps)
-![C#](https://img.shields.io/badge/C_Sharp-Learning-239120?style=for-the-badge&logo=csharp)
-![DotNet](https://img.shields.io/badge/.NET-In_Progress-512bd4?style=for-the-badge&logo=dotnet)
+![Power Apps](https://img.shields.io/badge/Power_Apps-Queued-742774?style=for-the-badge&logo=powerapps)
+![C#](https://img.shields.io/badge/C_Sharp-Queued-239120?style=for-the-badge&logo=csharp)
+![DotNet](https://img.shields.io/badge/.NET-Queued-512bd4?style=for-the-badge&logo=dotnet)
 
 ---
 
